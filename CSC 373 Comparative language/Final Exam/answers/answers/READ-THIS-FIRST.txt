@@ -1,0 +1,35 @@
+Rules that apply during this exam:
+      0) You can use the Haskell compiler (ghci) and a text editor to work the problems.
+      1) You should download the file answers.zip from d2l, unzip it, and edit the files 
+         answers/*.hs to enter your answers. When you're done, zip up the directory, and
+         upload to d2l.
+      2) You cannot use or search the Internet.
+      3) You cannot communicate with anyone over phone, the Internet, email, in person, etc.
+      4) You may have your phone next to you but you can only use it in an emergency.
+      5) You should be alone in your room when you take the exam.
+      6) You should be logged into Zoom throughout the exam, with video turned on, audio turned off.
+         We will provide 3 rooms:
+            *) Last names starting with A-J, monitored by Christian: https://arizona.zoom.us/j/91371436500
+            *) Last names starting with K-R, monitored by Wenkang: https://arizona.zoom.us/j/95562843485
+            *) Last names starting with S-Z, monitored by Claire: https://arizona.zoom.us/j/92438567250
+      7) This is a closed book exam: no notes, no books, etc.
+      8) You may print out the exam.
+      9) You may have one blank piece of scratch paper and a pen/pencil.
+     10) If you have questions, use Zoom chat to ask them. Keep in mind that everyone can see these
+         chats, so don't write anything that reveals an answer.
+     11) If you get knocked off the Internet during the exam, don't panic and spend 10 minutes
+         figuring out what went wrong! Text me at 520-271-4960 to explain what happened and continue
+         taking the exam.
+     12) When you're done, submit the modified answers.zip only.
+           a) Primarily, upload to d2l.
+           b) If that doesn't work, email it to me (collberg@gmail.com).
+     13) Don't go over time! You should monitor the time yourself. We will say (over audio and chat)
+         "10 minutes left, 5 minutes left, turn in now!" and you are responsible for monitoring these
+         channels.
+     14) Before you submit the files, make sure that there are no syntax errors! We will both
+         run your functions and view them manually.
+     15) Don't rename any functions. Don't rename the answers.zip file.
+
+   By submitting this file you certify that you followed the rules above. Even though it's easier
+   to cheat under these circumstances, you are still bound by the university's and this course's
+   codes of academic integrity.
